@@ -7,7 +7,7 @@
  */
 static char font[] = "Fixed:style=SemiCondensed:pixelsize=13:antialias=true:autohint=true";
 static int borderpx = 10;
-
+static int bold_font = 1;
 /*
  * What program is execed by st depends of these precedence rules:
  * 1: program passed with -e
